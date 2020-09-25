@@ -8,6 +8,7 @@ Exercises from tuesday are found in jpademo
 
 Exercises from wednesday found in jpademo Onsdag - RestJAXRS
 
-Note the git part of wednesday excersise has been done but I had to create a new git to upload both projects.
+Note the git part of wednesday excersise has been done but I had to create a new git to upload both projects
+To check for the Branch part. [Here](https://github.com/josefmarcc/3semWeek39)
 
 
